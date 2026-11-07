@@ -1,38 +1,25 @@
-Hi there! 👋 I'm Ponmalar S
+Hi, I'm Ponmalar S 👋
 
 🎓 B.E. Computer Science and Engineering Student
 🏫 Sathyabama Institute of Science and Technology
 💻 Aspiring Software Engineer
-📊 Interested in Data Visualization and Software Development
+🌱 Currently learning Java Programming and GitHub
 
-👩‍💻 About Me
+About Me
 
-- Currently pursuing my Bachelor's degree in Computer Science and Engineering.
-- Learning programming and software development.
-- Interested in building practical projects.
-- Exploring data visualization and new technologies.
+I'm a passionate Computer Science student interested in programming, technology, and software development.
 
-🛠️ Technical Interests
+Skills
 
-- Java
-- Python
-- Data Visualization
-- Software Development
-- Computer Architecture
+- Java (Learning)
+- MS Office
+- Git and GitHub
 
-🚀 My Projects
+Projects
 
-- Thermal-Aware Multi-Core Processor Scheduling Architecture
+- Java Programming: A collection of Java programs covering Basics, Strings, Arrays, and OOP.
+- Thermal-Aware Multi-Core Processor Scheduling Architecture: An academic project focused on temperature-aware task scheduling.
 
-🎯 Goals
+Connect With Me
 
-- Improve my programming skills.
-- Build real-world projects.
-- Gain practical experience through internships.
-- Grow as a software engineer.
-
-🤝 Connect With Me
-
-- GitHub: "My GitHub Profile" (https://github.com/ridhumalar217)
-
-✨ Always learning, improving and building!
+- GitHub: "ridhumalar217" (https://github.com/ridhumalar217)
